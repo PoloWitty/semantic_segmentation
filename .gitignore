@@ -1,3 +1,5 @@
 data/
 saved/
 debug_log/
+__pycache__/
+*.pyc
